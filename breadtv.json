@@ -4,16 +4,16 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://raw.githubusercontent.com/breadmyth/bread/master/breadtvcustom_spider.jar",
+"spider":"https://github.com/breadmyth/bread/blob/master/tv/breadtvcustom_spider.jar",
 ## 02.🐉明接口
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/catxm.jar",
+//"spider":"https://github.com/breadmyth/bread/blob/master/tv/breadtvxm.jar",
 ## 03.🐱S接口
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/catbaikan.jar",
+//"spider":"https://github.com/breadmyth/bread/blob/master/tv/breadtvbaikan.jar",
 
 
 # 直播 (择一使用👇)
 ## 01.🦋直播
-## --> spider 改 catbaikan.jar 或 breadtvcustom_spider.jar
+## --> spider 改 breadtvbaikan.jar 或 breadtvcustom_spider.jar
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9PbmVDbGlja1J1bi9yYXcvbWFzdGVyL2NhdC9jYXRsaXZlLnR4dA=="]}]}],
 
 ## 02.🦋直播
@@ -47,7 +47,7 @@
 
 
 ## 02.🐉明接口
-## --> spider 改 breadtvcustom_spider.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
+## --> spider 改 breadtvxm.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
 ## --> 直播 改 "02.🦋直播"
 ## 相较于"缝合接口", 多了"七七" & 正常的"小纸条" & "假窗·氛围·白噪声" & "设置直播为首页", 尝鲜用!
 //{"key":"csp_CZSPP","name":"🐉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
@@ -65,7 +65,7 @@
 
 
 ## 03.🐱S接口
-## --> spider 改 catbaikan.jar
+## --> spider 改 breadtvbaikan.jar
 //{"key":"360_spider","name":"🐱360(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/360.json"},
 //{"key":"2345_spider","name":"🐱2345(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/2345.json"},
 //{"key":"sogou_spider","name":"🐱搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/sogou.json"},
