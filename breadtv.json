@@ -4,7 +4,7 @@
 
 # spider (择一使用👇)
 ## 01.🐼缝合接口
-"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/catcustom_spider.jar",
+"spider":"https://raw.githubusercontent.com/breadmyth/bread/master/breadtvcustom_spider.jar",
 ## 02.🐉明接口
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/cat/catxm.jar",
 ## 03.🐱S接口
@@ -13,18 +13,18 @@
 
 # 直播 (择一使用👇)
 ## 01.🦋直播
-## --> spider 改 catbaikan.jar 或 catcustom_spider.jar
+## --> spider 改 catbaikan.jar 或 breadtvcustom_spider.jar
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9PbmVDbGlja1J1bi9yYXcvbWFzdGVyL2NhdC9jYXRsaXZlLnR4dA=="]}]}],
 
 ## 02.🦋直播
-## --> spider 改 catxm.jar
+## --> spider 改 breadtvcustom_spider.jar
 ## --> 使用 "02.🐉明接口"时,直播要改成 "02.🦋直播 ", 适配 "🐉设置直播为首页" 这个功能)
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=tvfix&type=list"]}]}],
 
 
 "sites":[
 ## 01.🐼缝合接口
-## --> spider 改 catcustom_spider.jar
+## --> spider 改 breadtvcustom_spider.jar
 {"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Buka","name":"🐼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
@@ -47,7 +47,7 @@
 
 
 ## 02.🐉明接口
-## --> spider 改 catxm.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
+## --> spider 改 breadtvcustom_spider.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
 ## --> 直播 改 "02.🦋直播"
 ## 相较于"缝合接口", 多了"七七" & 正常的"小纸条" & "假窗·氛围·白噪声" & "设置直播为首页", 尝鲜用!
 //{"key":"csp_CZSPP","name":"🐉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
