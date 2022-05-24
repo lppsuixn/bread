@@ -41,23 +41,6 @@
 {"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/breadmyth/bread/raw/master/tv/hdmoli.json"},
 
 
-## 02.🐉明接口
-## --> spider 改 breadtvxm.jar, (XPath系列 不可用, APP影视规则 不可用, 资源网采集 可用)
-## --> 直播 改 "02.🦋直播"
-## 相较于"缝合接口", 多了"七七" & 正常的"小纸条" & "假窗·氛围·白噪声" & "设置直播为首页", 尝鲜用!
-//{"key":"csp_CZSPP","name":"🐉厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Buka","name":"真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"Buka"},
-//{"key":"csp_NaNa","name":"🐉七七","type":3,"api":"csp_NaNa","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"Auete"},
-//{"key":"csp_DiDuan","name":"🐉低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_GitCafe","name":"🐉小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Concert","name":"演唱会","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":0,"filterable":1,"ext":"Concert"},
-//{"key":"csp_AliPanSou","name":"🐉喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_FakeWindow","name":"🐉假窗·氛围·白噪声","type":3,"api":"csp_FakeWindow","searchable":0,"quickSearch":0,"filterable":0},
-//{"key":"csp_Live","name":"🐉设置直播为首页","type":3,"api":"csp_Live","searchable":0,"quickSearch":0,"filterable":0},
-//{"key":"csp_DY1990","name":"🐉90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-
-
 ## XPath系列, APP影视规则, 资源网采集
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/breadmyth/bread/raw/master/tv/duboku.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
