@@ -1,10 +1,10 @@
 {
 // yiu.jir包含多数官采,酷猫,77没有Xbiu和推送 317KB
 // custom_spider.jar包含资源站,酷猫,77,Xbiu和推送 274KB
-//"spider" : "http://mj.youhui112.com/zy/custom_spider.jar",
-//"spider" : "http://mj.youhui112.com/gy/yiu.jar",
+//"spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/mj_custom_spider.jar",
+"spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/mj_yiu.jar",
 
-"spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/wqmj.jar",
+//"spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/wqmj.jar",
 "sites" : [
 {"name" : "究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱. 特别感谢所有源原作者"},
 {"name" : "爬虫"},
