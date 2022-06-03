@@ -1,6 +1,6 @@
 {
-// yiu.jir包含多数官采,酷猫,77没有Xbiu和推送 317KB
-// custom_spider.jar包含资源站,酷猫,77,Xbiu和推送 274KB
+// mj_yiu.jir包含多数官采,酷猫,77没有Xbiu和推送 317KB
+// mj_custom_spider.jar包含资源站,酷猫(已挂),77,Xbiu和推送 274KB
 //"spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/mj_custom_spider.jar",
 "spider" : "https://raw.githubusercontent.com/breadmyth/bread/master/xb/mj_yiu.jar",
 
