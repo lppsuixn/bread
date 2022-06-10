@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/BL0608.jar",
+  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/wq0608.jar",
   "sites": [
 
     // ⇩⇩ jar包内东东 ⇩⇩
@@ -88,7 +88,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "🥤Cokemv(SP)",
+      "name": "🎬Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "buka_spider",
-      "name": "📒不卡(SP)",
+      "name": "📗不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
       "searchable": 0,
