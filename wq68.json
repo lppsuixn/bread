@@ -1,8 +1,8 @@
 {
-  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/wq68.jar",
+  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/wq.jar",
   "sites": [
 
-    // ⇩⇩ jar包内东东 ⇩⇩
+// ⇩⇩ jar包内东东 ⇩⇩
 
     {
       "key": "csp_77",
@@ -88,7 +88,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "🥤Cokemv(SP)",
+      "name": "🎬Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
