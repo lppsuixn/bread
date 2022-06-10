@@ -48,7 +48,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
+            "proxy://do=live&type=txt&ext=http://81.70.77.5:7800/tv/"
           ]
         }
       ]
