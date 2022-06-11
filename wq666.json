@@ -98,15 +98,6 @@
       "filterable": 1
     },
     {
-      "key": "buka_spider",
-      "name": "📒不卡(SP)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Dy1990",
       "name": "🔶1990电影(SP)",
       "type": 3,
