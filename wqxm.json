@@ -51,6 +51,7 @@
       "filterable": 0,
       "ext": "موارد مدير المصنع"
     },
+    {"key":"csp_Buka","name":"🧼真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"حقا ليس عالقا"},
     {
       "key":"csp_Buka",
       "name":"📒 真不卡",
