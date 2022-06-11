@@ -1,6 +1,6 @@
 {
   "wallpaper": "",
-  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/jar/wqxm666.jar",
+  "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/jar/wqxm.jar",
   
   "sites":[
     {
@@ -50,17 +50,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "موارد مدير المصنع"
-    },
-    {"key":"csp_Buka","name":"🧼真不卡","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"حقا ليس عالقا"},
-    {
-      "key":"csp_Buka",
-      "name":"📒 真不卡",
-      "type":3,
-      "api":"csp_ColaCat",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"حقا ليس عالقا"
     },
     {
       "key": "csp_Auete",
