@@ -1,4 +1,5 @@
 {
+  "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   "spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/wq666.jar",
   "sites": [
 
@@ -100,9 +101,9 @@
       "name": "📒不卡(SP)",
       "type": 3,
       "api": "csp_Buka",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Dy1990",
@@ -111,7 +112,7 @@
       "api": "csp_DY1990",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Alips",
@@ -142,7 +143,17 @@
     },
 
 // ⇩⇩ XBIUBIU ⇩⇩
-
+    
+    {
+      "key":"csp_biubiu_特狗影视",
+      "name":"🐕特狗影视(Biu)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://raw.githubusercontent.com/breadmyth/bread/master/xb/特狗影视.json"
+},
     {
       "key": "csp_biubiu_lezhu",
       "name": "乐猪(Biu)",
