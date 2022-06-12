@@ -134,7 +134,7 @@
 
 // ⇩⇩ XBIUBIU ⇩⇩
 
-{"key":"csp_biubiu_特狗影视","name":"xb特狗影视(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
+{"key":"csp_biubiu_特狗影视","name":"xb特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"xb双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/1010dy.json"},
 {"key":"csp_biubiu_qyyy","name":"xb奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/qyyy.json"},
 {"key":"csp_biubiu_lezhutv","name":"xb乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/lezhutv.json"},
@@ -147,7 +147,7 @@
 {"key":"csp_biubiu_wgyy","name":"xb乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/wgyy.json"},
 {"key":"csp_biubiu_xkys","name":"xb星空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/xkys.json"},
 {"key":"csp_biubiu_libvio","name":"xbLIBVIO影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/libvio.json"},
-{"key": "csp_biubiu_lgyy","name": "xb蓝光","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/蓝光影视.json"},
+{"key": "csp_biubiu_lgyy","name": "xb蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontent.com/breadmyth/bread/master/MeowXB/蓝光影视.json"},
 
 
 // ⇩⇩ APPYSV2 ⇩⇩
