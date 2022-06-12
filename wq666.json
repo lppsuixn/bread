@@ -108,7 +108,7 @@
     },
     {
       "key": "csp_xpath_nbys",
-      "name": "φ(*￣0￣)泥巴(SP需翻墙)",
+      "name": "泥巴(需梯子)",
       "type": 3,
       "api": "csp_Nbys",
       "searchable": 1,
@@ -117,7 +117,7 @@
     },
     {
       "key": "push_agent",
-      "name": "(ﾉ*･ω･)ﾉ 推送（阿里）",
+      "name": "推送(阿里)",
       "type": 3,
       "api": "csp_Ali",
       "searchable": 0,
