@@ -91,26 +91,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-	{
-      "key": "csp_Concert",
-      "name": "小明 演唱会",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "حفلة موسيقية"
-    },
-    {
-      "key": "csp_Concert",
-      "name": "🎤演唱会",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/singers.json"
-    },
     {
       "key": "csp_Cokemv",
       "name": "🎬Cokemv(SP)",
@@ -154,11 +134,7 @@
 {"key":"csp_xpath_huya","name":"xp虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"xp厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
 {"key":"csp_xpath_lib","name":"xpLibvio","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/lib2.json"},
-{"key":"csp_xpath_concert","name":"xp演唱会","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/singers.json"},
-{"key":"csp_xpath_5551","name":"xp555电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/555.json"},
-{"key":"csp_xpath_5552","name":"xp555电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/555.json"},
-{"key":"csp_xpath_dadagui1","name":"xp达达龟1","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
-{"key":"csp_xpath_dadagui2","name":"xp达达龟2","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
+{"key":"csp_xpath_dadagui","name":"xp达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 
 
 // ⇩⇩ XBIUBIU ⇩⇩
