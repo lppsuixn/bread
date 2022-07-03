@@ -16,7 +16,7 @@
 	"homeVodMark": "concat(/i[contains(@class,'video-info')]/em/text(),'-',/a[contains(@class,'video-info')]/p/em/text())",
 	"cateUrl": "https://www.huya.com/g/{cateId}?page={catePg}",
 	"cateVodNode": "//ul[@class='live-list clearfix']/li",
-	"cateVodName": "concat(/span[@class='txt']/text(),'-')",
+	"cateVodName": "concat(/span[@class='txt']/text(),'22')",
 	"cateVodId": "/a[contains(@class,'video-info')]/@href",
 	"cateVodIdR": "https://www.huya.com/(\\w+)",
 	"cateVodImg": "/a[contains(@class,'video-info')]/img/@data-original",
